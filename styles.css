@@ -5,7 +5,7 @@ body {
   color: #e3e2eb;
   font-family: Impact, Calibri;
   font-size: 35px;
-  font-weight: 300;
+  font-weight: 150;
   line-height: 1.65em;
   margin: 0 auto;
   max-width: 960px;
@@ -37,7 +37,7 @@ h1 {
   cursor: pointer; 
   display: block;
   font-size: 20px;
-  font-weight: bold;  
+  font-weight:;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
   text-align: center; 
@@ -104,7 +104,7 @@ h1 {
 }
 
 #answers p span {
-  font-weight: bold;
+  font-weight:;
 }
 
 
