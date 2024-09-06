@@ -36,7 +36,7 @@ h1 {
   color: #e3e2eb;
   cursor: pointer; 
   display: block;
-  font-size: 30px;
+  font-size: 25px;
   font-weight:;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
@@ -58,7 +58,7 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 30px;
+  font-size: 25px;
   line-height: 13px;
   margin: 15px 4%;
 }
@@ -83,7 +83,7 @@ h1 {
   font-size: 25px;
   line-height: 24px;
   margin-left: 30px;
-  opacity: 1.0;
+  opacity: 1.5;
 }
 
 
